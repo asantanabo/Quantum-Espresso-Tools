@@ -3,4 +3,4 @@ Collection of Quantum Espresso tools to analyze phonon calculations. It consists
 The second file called projection.py performs a projection of any two q-points from the previous code. The third code called 
 gen_modes.py generates an arrow representation of the modes computed by Quantum Espresso.
 
-Results of the projection can be observed in projection.png and for the arrow generation code in arrow.png.
+Results of the projection can be observed in projection.png and totalprojection.png.
